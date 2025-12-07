@@ -1,5 +1,5 @@
 /*
-Device Name:  HZ01 Bluetooth module (ESP32 board as an alternative to the HC	605 Bluetooth module) 
+Device Name:  HZ01 Bluetooth module (ESP32 board as an alternative to the HC05 Bluetooth module) 
 Release: Light Version
 Version: 1.0
 Target Chipset: ESP32 WROOM 32E 
