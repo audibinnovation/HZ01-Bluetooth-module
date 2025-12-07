@@ -9,8 +9,6 @@ Location: INDIA, KERALA, TVM,
 E-mail: arunvtkl@gmail.com
 Date: 27-11-2025
 */
-
-
 #include "BluetoothSerial.h"
 
 BluetoothSerial SerialBT;
