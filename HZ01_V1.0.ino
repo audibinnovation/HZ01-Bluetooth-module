@@ -6,7 +6,7 @@ Target Chipset: ESP32 WROOM 32E
 IDE: ARDUINO IDE 2.3.6
 Developer: Arun.S
 Location: INDIA, KERALA, TVM,
-E-mail: arunvtkl@gmail.com
+E-mail: audibinnovation@gmail.com
 Date: 27-11-2025
 */
 #include "BluetoothSerial.h"
